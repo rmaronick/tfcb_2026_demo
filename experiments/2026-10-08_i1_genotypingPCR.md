@@ -16,16 +16,16 @@
 4. Add 0.6 uL of both F and R primer to each reaction, bringing the total reaction volume to 20 μL.
 5. Mix gently and briefly centrifuge to collect the reaction mixture at the bottom of each tube.
 6. Place reactions into a thermocycler and run the KOD One touchdown PCR protocol (KODTD):
-   - **Initial annealing temperature: 68°C   
-   - **Annealing temperature: progressively decreased during touchdown cycles 
-   - **Extension: short extension time appropriate for amplicons less than 1 kb
-   - **Total run time: approximately 40 minutes
+   - Initial annealing temperature: 68°C   
+   - Annealing temperature: progressively decreased during touchdown cycles 
+   - Extension: short extension time appropriate for amplicons less than 1 kb
+   - Total run time: approximately 40 minutes
 7. Run PCR products on 2% agarose gel
 8. If bands exist at 250-500 bp, clean up PCR reaction using Zymo's "DNA Clean and Concentrator - 5" kit protocol
 9. Send samples for sanger sequencing through genewiz with the following guidelines
-   - **PCR product: 25 ng
-   - **Sequencing primer (10 uM): 2.5 uL
-   - **Water: to 15 uL total
+   - PCR product: 25 ng
+   - Sequencing primer (10 uM): 2.5 uL
+   - Water: to 15 uL total
 
 ## Result
 ![PCR amplification gel](img/220_2026-10-08_11h09m36sGelGreen.jpg)
