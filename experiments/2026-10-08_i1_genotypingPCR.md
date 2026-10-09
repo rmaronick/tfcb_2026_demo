@@ -22,7 +22,10 @@
    - **Total run time: approximately 40 minutes
 7. Run PCR products on 2% agarose gel
 8. If bands exist at 250-500 bp, clean up PCR reaction using Zymo's "DNA Clean and Concentrator - 5" kit protocol
-9. Send samples for sanger sequencing through genewiz
+9. Send samples for sanger sequencing through genewiz with the following guidelines
+   - **PCR product: 25 ng
+   - **Sequencing primer (10 uM): 2.5 uL
+   - **Water: to 15 uL total
 
 ## Result
 ![PCR amplification gel](img/220_2026-10-08_11h09m36sGelGreen.jpg)
