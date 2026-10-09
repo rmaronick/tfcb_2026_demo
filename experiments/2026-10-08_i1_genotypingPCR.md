@@ -21,7 +21,7 @@
    - Extension: short extension time appropriate for amplicons less than 1 kb
    - Total run time: approximately 40 minutes
 7. Run PCR products on 2% agarose gel
-8. If bands exist at 250-500 bp, clean up PCR reaction using Zymo's "DNA Clean and Concentrator - 5" kit protocol
+8. If bands exist at 250-500 bp, clean up PCR reaction using Zymo's "DNA Clean and Concentrator - 5" kit protocol (if bands do not exist, optimize thermalcycler protocol)
 9. Send samples for sanger sequencing through genewiz with the following guidelines
    - PCR product: 25 ng
    - Sequencing primer (10 uM): 2.5 uL
