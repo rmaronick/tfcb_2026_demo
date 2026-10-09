@@ -2,7 +2,7 @@
 2026-10-08 [Issue #1](https://github.com/rmaronick/tfcb_2026_demo/issues/1)
 
 ## Reagents
-| reagent | vendor | catalog number | stock concentration | final concentration |
+| Reagent | Vendor | Catalog number | Stock Concentration | Final Concentration |
 | ------- | ------ | -------------- | ------------------- | ------------------- |
 | PCR grade water | Roche | 3315959001 | n/a | n/a|
 | F primer | IDT | n/a | 10 uM | 0.3 uM |
