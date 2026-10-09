@@ -10,7 +10,7 @@
 | KOD One 2x MM | Toyobo | KMM-201 | n/a | n/a|
 
 ## Procedure
-1. Thaw PCR reagents and template DNA
+1. Suspend primers to a working concenration of 10 uM and thaw template DNA.
 2. Prepare a PCR master mix containing PCR-grade water, KOD One PCR Master Mix, and genomic DNA according to the volumes listed above.
 3. Aliquot 18.8 μL of the prepared master mix into each PCR tube.
 4. Add 0.6 uL of both F and R primer to each reaction, bringing the total reaction volume to 20 μL.
