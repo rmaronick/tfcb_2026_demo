@@ -1,5 +1,5 @@
 # Testing New Genotyping Primers for KO Validation
-2026-10-08 Issue #1
+2026-10-08 [Issue #1](https://github.com/rmaronick/tfcb_2026_demo/issues/1)
 
 ## Reagents
 | reagent | vendor | catalog number | stock concentration | final concentration |
