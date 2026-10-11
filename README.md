@@ -2,7 +2,7 @@
 
 # Regan Maronick
 
-# Folder Layout
+## Folder Layout
 - experiments
   - img
 - analysis
@@ -23,6 +23,6 @@ Following an acceptance of the invitation, Val and Julia will be able to edit th
 - [Commit](https://github.com/rmaronick/tfcb_2026_demo/commit/422938b33bdad189f85621e00e0ffd5ddb1edb50)
 - [Repository Labels](https://github.com/rmaronick/tfcb_2026_demo/labels)
 
-# What this repository is
+## What this repository is
 This is where I am documenting my wet lab experiments and doing different analyses. Currently this is only for one agarose gel experiment and for tidying a qpcr table. 
 
